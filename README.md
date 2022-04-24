@@ -1,4 +1,4 @@
-# Illustrator 
+# Illustrator 專案
 
 > 紀錄一些Illustrator筆記及作品。
 
@@ -13,7 +13,7 @@
     +--- Readme.md                      說明文件
 ```
 
-## Git LFS
+## `Git LFS`教學
 > 過大的檔案要用Git LFS，常用於設計檔案，二進制檔案。
 
 1. 安裝 Git-lfs
@@ -41,5 +41,9 @@
         git push -u origin main
         ```
 
-## Ref
-1. https://git-lfs.github.com/
+## 亂流
+> Hyperv 虛擬交話機在wifi下分享網路，會變成bridge模式，影響Git LFS上傳檔案。
+![暫時關掉分享網路給VM](https://raw.githubusercontent.com/orange9982239/ImageHosting/master/images/20220424205639.png)
+
+## 參考
+   * https://git-lfs.github.com/
