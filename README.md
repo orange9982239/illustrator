@@ -10,6 +10,7 @@
     +--- Templet                        範本檔案
         +--- ClothinAndAccessories          服飾、配件
         +--- Print                          列印用
+    +--- Tracing                        描圖
     +--- Readme.md                      說明文件
 ```
 
